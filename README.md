@@ -35,4 +35,4 @@ terraform apply
 chmod 400 terra-udemy.pem
 ssh -i "terra-udemy.pem" ec2-user@ec2-3-239-201-90.compute-1.amazonaws.com
 ```
-3. Also, browse public ip of the ec2 instance and check if the html text is rendered
+3. Also, browse public ip of the ec2 instance and check if the html text is rendered.
